@@ -1,7 +1,7 @@
 # Digital-Music-Store-Analysis-Using-SQL
 Digital Music Store Analysis Using SQL
 
-#Objective :
+# Objective :
 
 This project is about examine dataset with SQL and help store understand its business growth by answering problems.
 
